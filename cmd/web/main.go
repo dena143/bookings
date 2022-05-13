@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/alexedwards/scs/v2"
-	"github.com/dena143/bookings/pkg/config"
-	"github.com/dena143/bookings/pkg/handlers"
-	"github.com/dena143/bookings/pkg/render"
+	"github.com/dena143/bookings/internal/config"
+	"github.com/dena143/bookings/internal/handlers"
+	"github.com/dena143/bookings/internal/render"
 )
 
 const portNumber = ":8080"
